@@ -1,0 +1,24 @@
+{
+  "name": "react-native-share-extension",
+  "version": "1.2.1",
+  "description": "share extension using react-native for both ios and android",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:itdev123/react-native-share-extension.git"
+  },
+  "keywords": ["react-component", "react-native", "share-extension"],
+  "author": {
+    "name": "IT DEV",
+    "email": "itdev123@outlook.com",
+    "url": "http://github.com/itdev123"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itdev123/react-native-share-extension"
+  },
+  "homepage": "https://github.com/itdev123/react-native-share-extension"
+}
